@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921847466613",
+    "project_id": "dailyquote-a0032",
+    "storage_bucket": "dailyquote-a0032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921847466613:android:a19958cd2c1e53190ec63c",
+        "android_client_info": {
+          "package_name": "com.unwana.audio_reader"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE1MidI0C_rlmUTpEpT-ElLlUPdpD3CUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

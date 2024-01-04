@@ -1,0 +1,16 @@
+class Page63_64 {
+  static String getTextContent() {
+    return """
+"When Salma left the committee and came to me crying for justice, I said you were the only person who could help us. So through our campus pimp, I traced and found the person who gave Salma Kabir's name. We gave him a little working over and threatened to expose him to the school authority for the racket, or is it syndicate, they are superintending in the university. He opened up and sang like a canary."
+"So, how do you intend to deal with the matter?"
+"Zaki, of course."
+Honourable Habib was quiet for a long while. He was not comfortable with Zaki at all. The last time he was instructed to deal with Alhaji Adamu by kidnapping his son, he bungled it. He had to involve the services of one inexperienced villager and together they got themselves arrested. It was to his credit that he did not divulge my name. That blunder cost me over quarter of a million naira. It was not so much to secure their release as it was to protect my name. The police were asking for over a million naira to kill the matter. Luckily, my position helped. I remember distinctly that the village shamus, what was his name, Talle, I think, had to be instructed to go and settle in a remote village, not better than the Lafayette he loved so much, but no worse. The police ensured that he was physically taken there and they made him promise never to set foot on Lafayette soil again. He gave his word after they threatened to open the case of kidnapping against him anytime he was even rumoured to be seen in Lafayette.
+Talle had assured them that he would never visit his village again and vowed never to have anything to do with anyone that he did not know before. I heard that he went about telling people that he was a successful farmer in his new village that lay somewhere between Nigeria and Niger. The actual story that filtered out was that he was into smuggling. I did not know and really did not much care. I was more concerned with Zaki. He may never be straight forward, but he had his day. He was visibly involved with business of importing and exporting spare parts of cars. But once in a while he would rent out his brawn for additional income. And    
+he never bothered to find out the legality or otherwise of this additional income. Labaran was right. We needed Zaki.
+Omar was looking strangely at me. I noticed also that Jamila, Teemah and even Bint had their eyes transfixed on me in total surprise, even disbelief. They wanted more details perhaps. But the immediacy of the story took care of the moment. If they wanted, they could ask whatever clarification they required after I was done with my tale. So I resumed.
+So Zaki was contacted and he trailed Kabir to one of his regular gambling joints. Zaki waited in the suffocating and densely smoky gambling hall till it was late in the night when they were almost done with their dealings. He entertained himself by mentally running over in his mind the chorus he knew off hand from the song of late Kenny Rogers, The Gambler:
+You've got to know when to hold 'em Know when to fold 'em Know when to walk away And know when to run You never count your money When you're sittin' at the table There'll be time enough countin' When the dealin's done.
+
+""";
+  }
+}
